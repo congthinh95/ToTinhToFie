@@ -1,1 +1,1 @@
-Mot dieu bat ngo bang html, javascript cho em pe~
+Null
