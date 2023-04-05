@@ -17,11 +17,11 @@ $(function () {
         nTime = 0, 
         buffInterval = null, 
         tFlag = false, 
-        albums = ['Sparkle', 'The Muffin Song'], 
+        albums = ['Aloha', 'The Muffin Song'], 
         trackNames = ['Aloha - Love', 'The Muffin Song - asdfmovie'], 
         albumArtworks = ['_1', '_2'], 
         trackUrl = ['https://raw.githubusercontent.com/congthinh95/ToTinhToFie/master/music/aloha.mp3', 
-                    'https://raw.githubusercontent.com/congthinh95/ToTinhToFie/master/muffin.mp3'], 
+                    'https://raw.githubusercontent.com/congthinh95/ToTinhToFie/master/music/muffin.mp3'], 
         playPreviousTrackButton = $('#play-previous'), 
         playNextTrackButton = $('#play-next'), 
         currIndex = -1;
