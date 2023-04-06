@@ -21,7 +21,7 @@ $(function () {
         trackNames = ['Aloha - Love', 'The Muffin Song - asdfmovie'], 
         albumArtworks = ['_1', '_2'], 
         trackUrl = ['https://raw.githubusercontent.com/congthinh95/ToTinhToFie/master/music/aloha.mp3', 
-                    'https://raw.githubusercontent.com/congthinh95/ToTinhToFie/master/music/muffin.mp3'], 
+                    'https://raw.githubusercontent.com/congthinh95/ToTinhToFie/master/music/ido.mp3'], 
         playPreviousTrackButton = $('#play-previous'), 
         playNextTrackButton = $('#play-next'), 
         currIndex = -1;
