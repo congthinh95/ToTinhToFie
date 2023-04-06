@@ -21,7 +21,7 @@ $(function () {
         trackNames = ['Aloha - Love', 'I do - <3'], 
         albumArtworks = ['_1', '_2'], 
         trackUrl = ['https://raw.githubusercontent.com/congthinh95/ToTinhToFie/master/music/aloha.mp3', 
-                    'https://raw.githubusercontent.com/congthinh95/ToTinhToFie/master/music/ido.mp3'], 
+                    'https://raw.githubusercontent.com/congthinh95/ToTinhToFie/master/music/Ido.mp3'], 
         playPreviousTrackButton = $('#play-previous'), 
         playNextTrackButton = $('#play-next'), 
         currIndex = -1;
